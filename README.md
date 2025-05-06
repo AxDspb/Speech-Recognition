@@ -41,7 +41,3 @@ To run part 2, use: ```python main.py --model part2```
 - PyTorch
 - NLTK
 - Matplotlib
-
-Install dependencies:
-
-```pip install -r requirements.txt```
